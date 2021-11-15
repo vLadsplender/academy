@@ -26,7 +26,7 @@ public class Task1 {
 						}
 					}
 					if (count1 != count2) {
-						System.out.println("Разная длина строк");
+						System.out.println("Проверяемый символ встречается разное количество раз");
 						return;
 					}
 				}
